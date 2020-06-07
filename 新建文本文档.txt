@@ -1,10 +1,10 @@
 
 http://192.168.3.129:8900/bin/index.html?token=FV29Gvh8T9yw35tzBSFru4rd/2i1Y3wPKoJNxwLZUNKcghqLM2xN55zaUMYX8jCi
-https://api.baoboo.net/index/test/createSW?agent_id=116 旧版
-https://huaijiu.baoboo.net/
+https://api.firstcola.net/index/test/createSW?agent_id=116 旧版
+https://huaijiu.firstcola.net/
 https://db.liveskii.com/
 
-https://api.baoboo.net/index/test/fastlogin?id=19 测试服
+https://api.firstcola.net/index/test/fastlogin?id=19 测试服
 https://api.app6969.net/index/test/fastlogin?id=479 正式服
 
 https://www.njgck.com/gamehall/index.html?token=7999B3F47CD1F9F2AFF7014CB57AF524
@@ -31,10 +31,16 @@ HUAWEI 3C66 63036875
 
 德福 账号密码 xxj1003 123123abc
 
-http://47.74.148.28:8888/4473bc49/  gpfxokcs cbdb49ff
+前端中转机
+161.117.55.226
+密码 [L*A=Z9+o-ylW$]-1
+宝塔
+Bt-Panel: http://161.117.14.239:8888/fb3213e9
+username: 2la3cyso
+password: 8e1f4ae3
 
-https://admin.baoboo.net/ht100 admin 139139
-https://heguan.baoboo.net/ heguan1003 123123abc
+https://admin.firstcola.net/ht100 admin 139139
+https://heguan.firstcola.net/ heguan1003 123123abc
 
 正式包上传网站上的位置信息:
 域名:http://publish.baoboo.net/
@@ -46,7 +52,7 @@ ip: http://47.74.148.28:9500
 
 后续大部分测试账号可以使用这个账号登录后台
 -》游戏设置-》软件文档 中查询
-https://admin.baoob..net/ht100
+https://admin.firstcola.net/ht100
 账号:softdoc
 密码:arborday
 注：arborday 中文是 植树节的意思
@@ -59,6 +65,5 @@ https://www.runoob.com/python3/python3-conditional-statements.html
 https://download.baoboo.net/flvPlayer/flvjs/index.html
 -i https://pypi.doubanio.com/simple
 
-1304 1320
-
-FV29Gvh8T9yw35tzBSFru4rd/2i1Y3wPKoJNxwLZUNLrRjpmEl2xoN6hg9996kiFBvkHyVxH+iQX7I5vDDhrkkUuGfF6WeaQmvHw5xPLdizlMvlU77BjQU5LAiEUW9YedhbX1KpGHsFNLGRbdBB57ZHO0j+a8seFJ8MbZSQcf1Cl2/H/zAEdg1kqKFQu/J/X
+炸金花游戏规则
+http://img1.54ei.com/uploads/rule/zjh.html
